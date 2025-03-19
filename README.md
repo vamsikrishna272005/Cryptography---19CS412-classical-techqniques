@@ -81,8 +81,8 @@ void main()
 ## RESULT:
 The program is executed successfully
 
-
-## PlayFair Cipher
+-----------------------------------------------------------------------------------------
+### PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
