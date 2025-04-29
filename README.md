@@ -2,10 +2,7 @@
 Caeser Cipher using with different key values
 
 # AIM:
-
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
-
-
 ## DESIGN STEPS:
 
 ### Step 1:
@@ -26,7 +23,6 @@ Implementation using C or pyhton code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
-
 
 ## PROGRAM:
 ```
@@ -72,7 +68,6 @@ void main()
 
 }
 ```
-
 ## OUTPUT:
 
 ![Screenshot 2025-03-18 142713](https://github.com/user-attachments/assets/5e938fe4-b613-47ee-afae-3d2dc4853f48)
